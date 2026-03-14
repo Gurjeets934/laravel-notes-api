@@ -29,7 +29,7 @@ GET /api/notes/search?q=keyword
 
 ## Setup
 
-git clone https://github.com/username/laravel-notes-api.git  
+git clone https://github.com/Gurjeets934/laravel-notes-api.git  
 cd laravel-notes-api  
 composer install  
 php artisan migrate  
